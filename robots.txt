@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+
+Sitemap: https://ali-ahmed-obay.github.io/obay/sitemap.xml
